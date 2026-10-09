@@ -5,7 +5,7 @@
 
 /* 1. Where every "Book a Call" button goes.
       Paste your Calendly / Cal.com / Google Calendar booking link. */
-const BOOKING_URL = "https://calendly.com/your-link";
+const BOOKING_URL = "https://calendly.com/jamesraver-evangelista/30min";
 
 /* 2. Project highlights (the scroll section with the phone and laptop).
       - First two entries play in the phone (vertical edits).
